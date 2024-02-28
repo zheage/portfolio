@@ -1,22 +1,30 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Example
-  subtitle: subtitle
-  thumbnail: https://place-hold.it/400x300
+  title: Exemplo
+  subtitle: Subtítulo
+  thumbnail: https://animerant.com.br/wp-content/uploads/2023/06/vegeta-super-saiyajin-3-1.jpg
   
 #what displays when the item is clicked:
-title: Title
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
+title: Título
+subtitle: Subtítulo
+image: https://animerant.com.br/wp-content/uploads/2023/06/vegeta-super-saiyajin-3-1.jpg
 alt: image alt text
 
 ---
+
+# Tìtulo
+
+## Subtítulo
+
+### Teste
 Use this area to describe your project. **Markdown** supported.
 
 optional info list (delete if not using):
+- 123
+- 43543
 
 {:.list-inline} 
-- Date: 
+- **Date: ** 433
 - Client: 
 - Category: 
 
