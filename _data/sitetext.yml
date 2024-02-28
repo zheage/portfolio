@@ -73,11 +73,6 @@ en: &DEFAULT_EN
     text: "our story"
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
     Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, 
-    
-    <img title="a title" alt="Alt text" src="https://www.omniblog.com.br/_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2Foutput%3Dformat%3Awebp%2FhLXqxElGTU28Xgx8Pspx&w=3840&q=75">
-    
-    
-    
     totam corporis ea, alias ut unde.
      **Markdown** supported."
     section: about
