@@ -23,11 +23,11 @@ en: &DEFAULT_EN
     list:
       - title: "Python"
         desc: "Linguagem Python"
-        icon: https://icons8.com.br/icon/12584/python
+        icon: fab fa-python
       - title: "Git"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fa-brands fa-git
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+        icon: fab fa-git
+      - title: Markdown
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
