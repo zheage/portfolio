@@ -6,9 +6,9 @@
     right: 0;
     padding: 13px;
     text-transform: uppercase;
-    color: rgb(12, 12, 12);
+    color: rgb(255, 255, 255);
     border: 0;
-    background-color: darken($primary, 90%);
+    background-color: darken($primary, 100%);
     @include heading-font;
   }
   .navbar-brand {
