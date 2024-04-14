@@ -17,7 +17,7 @@
         -moz-transition: all ease 0.5s;
         transition: all ease 0.5s;
         opacity: 0;
-        background: fade-out($primary, 0.1);
+        background: fade-out($primary, 0.9);
         &:hover {
           opacity: 1;
         }
@@ -45,7 +45,7 @@
       margin: 0 auto;
       padding: 25px;
       text-align: center;
-      background-color: $white;
+      background-color: $black;
       h4 {
         margin: 0;
         text-transform: none;
