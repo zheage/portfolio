@@ -8,7 +8,7 @@
     text-transform: uppercase;
     color: rgb(255, 255, 255);
     border: 0;
-    background-color: darken($primary, 100%);
+    background-color: $primary;
     @include heading-font;
   }
   .navbar-brand {
@@ -18,7 +18,7 @@
     &:active,
     &:focus,
     &:hover {
-      color: darken($primary, 75%);
+      color: $primary ;
     }
   }
   .navbar-nav {
