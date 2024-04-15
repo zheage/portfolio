@@ -3,6 +3,7 @@ title: Project Name
 subtitle: Lorem ipsum dolor sit amet consectetur.
 image: https://criticalhits.com.br/wp-content/uploads/2022/03/dragon-ball-kuririn_xdsd.jpg
 alt: Keep Exploring
+background: black
 
 caption:
   title: Explore

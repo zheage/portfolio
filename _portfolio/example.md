@@ -3,6 +3,7 @@ caption: #what displays in the portfolio grid:
   title: Exemplo
   subtitle: Subtítulo
   thumbnail: https://animerant.com.br/wp-content/uploads/2023/06/vegeta-super-saiyajin-3-1.jpg
+  background: grey
   
 #what displays when the item is clicked:
 title: Título
