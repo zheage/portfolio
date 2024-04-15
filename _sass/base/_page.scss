@@ -9,14 +9,14 @@ p {
 }
 
 a {
-  color: $primary;
+  color: rgb(108, 48, 211);
   &:hover {
     color: $primary; // 10%
   }
 }
 
 .text-primary {
-  color: $primary !important;
+  color: rgb(255, 0, 140) !important;
 }
 
 h1,
@@ -53,12 +53,12 @@ h6 {
 
 // Highlight color customization
 ::-moz-selection {
-  background: $primary;
+  background: rgb(255, 0, 0); //$primary
   text-shadow: none;
 }
 
 ::selection {
-  background: $primary;
+  background: rgb(0, 170, 255); //$primary
   text-shadow: none;
 }
 
