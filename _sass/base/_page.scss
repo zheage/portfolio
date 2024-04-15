@@ -63,9 +63,9 @@ h6 {
 }
 
 img::selection {
-  background: transparent;
+  background: rgb(0, 250, 0);
 }
 
 img::-moz-selection {
-  background: transparent;
+  background: rgb(0, 212, 250);
 }
