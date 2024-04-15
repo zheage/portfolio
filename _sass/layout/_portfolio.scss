@@ -29,7 +29,7 @@
           height: 20px;
           margin-top: -12px;
           text-align: center;
-          color: rgb(174, 0, 0);
+          color: rgb(255, 255, 255);
           i {
             margin-top: -12px;
           }
@@ -109,7 +109,7 @@
     width: 75px;
     height: 75px;
     cursor: pointer;
-    background-color: rgb(32, 32, 32);
+    background-color: rgb(32, 32, 32); // transparent 
     &:hover {
       opacity: 0.3;
     }
