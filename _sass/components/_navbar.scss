@@ -12,7 +12,7 @@
     @include heading-font;
   }
   .navbar-brand {
-    color: rgb(255, 196, 57)
+    color: rgb(255, 196, 57);
     @include script-font;
     &.active,
     &:active,
