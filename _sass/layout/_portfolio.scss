@@ -17,7 +17,7 @@
         -moz-transition: all ease 0.5s;
         transition: all ease 0.5s;
         opacity: 0;
-        background: rgb(0,0,0);
+        background: fade-out($primary, 0.1);
         &:hover {
           opacity: 1;
         }
@@ -29,7 +29,7 @@
           height: 20px;
           margin-top: -12px;
           text-align: center;
-          color: rgb(255, 196, 57);
+          color: white;
           i {
             margin-top: -12px;
           }
@@ -45,7 +45,7 @@
       margin: 0 auto;
       padding: 25px;
       text-align: center;
-      background-color: rgb(18, 18, 18);
+      background-color: $white;
       h4 {
         margin: 0;
         text-transform: none;
@@ -109,9 +109,9 @@
     width: 75px;
     height: 75px;
     cursor: pointer;
-    background-color: rgb(32, 32, 32); // transparent 
+    background-color: transparent;
     &:hover {
-      opacity: 0.5;
+      opacity: 0.3;
     }
     .lr {
       /* Safari and Chrome */
@@ -123,7 +123,7 @@
       -webkit-transform: rotate(45deg);
       -ms-transform: rotate(45deg);
       transform: rotate(45deg);
-      background-color: rgb(255, 196, 57);
+      background-color: $gray-900;
       .rl {
         /* Safari and Chrome */
         z-index: 1052;
@@ -133,7 +133,7 @@
         -webkit-transform: rotate(90deg);
         -ms-transform: rotate(90deg);
         transform: rotate(90deg);
-        background-color: rgb(255, 196, 57);
+        background-color: $gray-900;
       }
     }
   }

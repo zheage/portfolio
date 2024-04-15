@@ -9,14 +9,14 @@ p {
 }
 
 a {
-  color: rgb(108, 48, 211);
+  color: $primary;
   &:hover {
-    color: rgb(0, 218, 11); // 10%
+    color: darken($primary, 10%);
   }
 }
 
 .text-primary {
-  color: rgb(255, 0, 140) !important;
+  color: $primary !important;
 }
 
 h1,
@@ -53,19 +53,19 @@ h6 {
 
 // Highlight color customization
 ::-moz-selection {
-  background: rgb(255, 0, 0); //$primary
+  background: $primary;
   text-shadow: none;
 }
 
 ::selection {
-  background: rgb(0, 170, 255); //$primary
+  background: $primary;
   text-shadow: none;
 }
 
 img::selection {
-  background: rgb(0, 250, 0);
+  background: transparent;
 }
 
 img::-moz-selection {
-  background: rgb(0, 212, 250);
+  background: transparent;
 }
