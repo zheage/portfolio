@@ -15,8 +15,8 @@
   &:active,
   &:focus,
   &:hover {
-    background-color: darken($primary, 90%) !important;
-    border-color: darken($primary, 90%) !important;
+    background-color: rgb(50, 90, 10) !important;
+    border-color: rgb(255, 200, 0) !important;
     color: rgb(255, 94, 0);
   }
   &:active,
